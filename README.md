@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI, ML, FineTuning, ChainLang**
 
-- 📝 I regularly write articles on [self-improvement, my entepreneurship journey and tech](self-improvement, my entepreneurship journey and tech)
+- 📝 I regularly write articles on what helps me improve myself in life, my entepreneurship journey and tech
 
 - 📫 How to reach me **MititeluAlexandruStefan@gmail.com**
 
