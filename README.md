@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Impact on people through App-Dev and social-media</h3>
+<h1 align="center">Howdy👋, I'm Alex</h1>
+<h3 align="center">Impact on people through App-Dev and Social-Media</h3>
 
 - 🔭 I’m currently working on **A Japanese Go AI Tutor**
 
