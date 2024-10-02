@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, React, AWS**
 
-- 🤝 I’m looking for help with **AI, ML, FineTuning, ChainLang**
+- 🤝 I’m looking for help with **AI, ML, FineTuning, LangChain**
 
 - 📝 I regularly write articles on what helps me improve myself in life, my entepreneurship journey and tech
 
