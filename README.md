@@ -1,15 +1,11 @@
-<h1 align="center">Alex from </h1>
+<h1 align="center">Alex </h1>
 <h3 align="center">Web-Dev + AI, Marketing and Writing</h3>
 
-- 🔭 I’m currently working on **A Japanese Go AI Tutor**
+- 🔭 I’m currently working on **An EEG analysis app & a healthcare platform**
 
-- 🌱 I’m currently learning **NextJS, React, AWS**
+- 🌱 My stack: **NextJs, TS, MongoDb LangChain, NameCheap**
 
-- 🤝 I’m looking for help with **AI, ML, FineTuning, LangChain**
-
-- 📝 I regularly write articles on what helps me improve my life, my entepreneurship journey and tech
-
-- 📫 How to reach me **MititeluAlexandruStefan@gmail.com**
+- 📝 I fuck-up regulalry and I write articles about it, so you don't have to: <a href="https://alexsharestheview.substack.com/">1 year lucky, 2 years good</a>
 
 - ⚡ Fun fact **I like Fencing & Brazilian Jiu-Jitsu**
 
