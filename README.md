@@ -9,7 +9,7 @@
 
 - ⚡ Fun Fact: **I like Fencing & Brazilian Jiu-Jitsu**
 
-- Target: **Work like a lion, remote for a while from all around the world -> settle down, grow a community -> conquer the world** 
+- Target: **LEARN APPLY LEARN APPLY  LEARN** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
