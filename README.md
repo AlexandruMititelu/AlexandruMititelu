@@ -1,13 +1,13 @@
 <h1 align="center">Alex </h1>
 <h3 align="center">Web-Dev + AI, Marketing and Writing</h3>
 
-- 🔭 I’m currently working on: **An EEG analysis app for my CS thesis & a healthcare platform**
+- 🔭 I’m currently working on: **Integrating AI/ML apps into internal tools @Vattenfall and an educational chatbot-custom-quiz-creator tool @VU Amsterdam**
 
-- 🌱 My stack: **NextJs, TS, MongoDb LangChain, NameCheap**
+- 🌱 My stack: **NextJs, TS, Supabase, TanStackQuery, LangChain, NameCheap, Vercel, Render**
 
 - 📝 I fuck-up regulalry and I write about it, so you don't have to: <a href="https://alexsharestheview.substack.com/">1 year lucky, 2 years good</a>
 
-- ⚡ Fun Fact: **I like Fencing & Brazilian Jiu-Jitsu**
+- ⚡ Fun Fact: **I like Tango & Brazilian Jiu-Jitsu**
 
 - Target: **LEARN APPLY LEARN APPLY  LEARN** 
 
