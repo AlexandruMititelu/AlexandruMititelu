@@ -1,7 +1,7 @@
 <h1 align="center">Alex </h1>
-<h3 align="center">Web-Dev + AI, Marketing and Writing</h3>
+<h3 align="center">SWE + AI, Marketing</h3>
 
-- 🔭 I’m currently working on: **Integrating AI/ML apps into internal tools @Vattenfall and an educational chatbot-custom-quiz-creator tool @VU Amsterdam**
+- 🔭 I’m currently working on: **Automatic Sustainability Certificates @SustainixAI, Integrating AI/ML @Vattenfall. My personal project: Tree of Life (TBA)**
 
 - 🌱 My stack: **NextJs, TS, Supabase, TanStackQuery, LangChain, NameCheap, Vercel, Render**
 
