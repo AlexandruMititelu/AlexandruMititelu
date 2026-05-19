@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Automatic Sustainability Certificates @SustainixAI, Integrating AI/ML @Vattenfall. My personal project: Tree of Life (TBA)**
 
-- 🌱 My stack: **NextJs, TS, Supabase, TanStackQuery, LangChain, NameCheap, Vercel, Render**
+- 🌱 My stack: **NextJs, TS, Supabase, TanStackQuery, LangChain, NameCheap, Vercel, Render + py, FastAPI, Claude-Agent-SDK**
 
 - 📝 I fuck-up regulalry and I write about it, so you don't have to: <a href="https://alexsharestheview.substack.com/">1 year lucky, 2 years good</a>
 
